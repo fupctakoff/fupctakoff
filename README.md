@@ -29,7 +29,7 @@ Hi there 👋 I'm a Python developer
 ![Requests](https://img.shields.io/badge/Requests-808080?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-808080?style=for-the-badge)
 ---
-### Social media<br>
+### Social media
 [![Telegram](https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=Telegram)](https://t.me/PolesoHamep)
 [![VK](https://img.shields.io/badge/%D0%92%D0%9A%D0%9E%D0%9D%D0%A2%D0%90%D0%9A%D0%A2%D0%95-808080?style=for-the-badge&logo=VK
 )](https://vk.com/slashbow)
